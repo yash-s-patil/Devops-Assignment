@@ -24,7 +24,7 @@
 aws_access_key = "YOUR_AWS_ACCESS_KEYS"
 aws_secret_key = "YOUR_AWS_SECRET_KEY"
 ```
-- In the `deploy_service.tf` file change the `key_name` to your AWS account's key name on line 174 and save the file.
+- In the `deploy_service.tf` file change the `key_name` to your AWS account's key name on line 172 and save the file.
 ```
 key_name = "AWS-KEY"
 ```
